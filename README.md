@@ -1,6 +1,6 @@
 # SPA utilizando Webpack
 
-Esta SPA foi feita com Gulp pelo curso da Cod3r e foi proposto um desafio para faze-la utilizando o Webpack.
+Esta SPA foi feita com Gulp pelo curso da <a href="https://www.cod3r.com.br/">Cod3r</a> e foi proposto um desafio para faze-la utilizando o Webpack.
 
 Para iniciar é preciso instalar as dependências e para isto utilize o comando `npm i` no terminal.
 
