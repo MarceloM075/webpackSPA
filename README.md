@@ -7,3 +7,5 @@ Para iniciar é preciso instalar as dependências e para isto utilize o comando 
 Assim que instalado as dependências, basta utilizar o comando `npm start` para o Webpack iniciar.
 
 Caso também queria, é possível utilizar o Webpack Dev Server para iniciar um servidor de desenvolvimento em sua máquina, para isto utilize o comando `npm run server` no terminal.
+
+Para o funcionamento correto do sistema, é necessário ter o node.js instalado em sua máquina.
