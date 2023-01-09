@@ -10,18 +10,10 @@ function htmlFiles(directory, files){
 
     function isHTML(file){
         let trueOrFalse = false
+        let temp = file.split('.').pop()
+        
+        temp == 'html' ? trueOrFalse = true : trueOrFalse = false
    
-        for(let i = file.length - 1; i >= 0; i--){
-            if(file[i] == '.') break
-
-            if(file[i] == 'l') continue
-
-            if(file[i] == 'm') continue
-
-            if(file[i] == 't') continue
-
-            if(file[i] == 'h') trueOrFalse = true
-        }
         return trueOrFalse
     }
 
